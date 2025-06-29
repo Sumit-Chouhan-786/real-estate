@@ -1,17 +1,14 @@
+What was the most challenging part for you?
+The most challenging part for me was understanding the exact requirement and converting in a visually working appealing solution. 
 
+b. How did you solve it? (Mention if you used ChatGPT, YouTube, Docs, etc.)
+I used ChatGPT for quick guidance and code support  for accurate implementation.
 
-1. Most challenging part?
-   Handling login and signup properly using only frontend code, and creating backend APIs for authentication.
+c. What did you learn during this task?
+I learned how important it is to break down a problem into smaller parts, and then research each step, and then build into a complete project. 
 
-2. How did you solve it?
-   I used ChatGPT to fix the logic and MDN Docs to understand how `localStorage` works.
+d. If we ask you to improve it tomorrow, what would you add?
+I would focus on adding more interactive elements such as animations, accessibility improvements . I also make the design more micro interactive and modern. 
 
-3. What did you learn?
-   I learned how to do form validation, store login data using `localStorage`, and redirect pages with JavaScript.
-
-4. What would you improve?
-   I would add a logout button, better error messages, password encryption, and protect pages from unauthorized access.
-
-5. Goal for the next 3 months?
-   (i) Learn advanced backend using Node.js, Express, and MongoDB, and build real-world projects.
-   (ii) Learn how to host websites using AWS.
+e. What is your goal for the next 3 months if selected?
+My goal for the next 3 months is to consistently improve my skills, especially in frontend development and project handling.  I also want to build a small portfolio of completed tasks to showcase my growth.
